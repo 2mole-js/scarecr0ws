@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-이력 :
+이력 :</br>
 공군 18전비 CERT 정보보호병 근무 (21.02 ~ 22.11) </br>
 백석대 정보보호학과 재학 (25.02 졸업 예정) </br>
 2019 ~ 교내 정보보안동아리 HUB 소속</br>
